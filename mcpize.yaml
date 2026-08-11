@@ -1,0 +1,25 @@
+name: mcp-agent-enterprise-guard
+slug: mcp-agent-enterprise-guard
+version: 0.1.0
+description: Compute trust scores, permission decisions, and silent-failure risk for AI agents in enterprise environments — pure local computation, zero API cost.
+author: princeruhulofficial
+license: MIT
+language: python
+entry: agent_enterprise_guard.server:main
+categories:
+  - ai-infrastructure
+  - agent-observability
+  - governance
+tags:
+  - trust
+  - reliability
+  - silent-failure
+  - permission
+  - enterprise
+  - prevalid
+pricing:
+  model: freemium
+  free_tier_calls_per_day: 50
+  pro_price_usd: 19
+homepage: https://github.com/princeruhulofficial/mcp-agent-enterprise-guard
+repository: https://github.com/princeruhulofficial/mcp-agent-enterprise-guard
